@@ -33,7 +33,7 @@
   #outer{
     margin-left:100px;
     margin-right: 100px;
-    height:1000px;
+    height:940px;
   
   }
   .outer_div{
@@ -92,6 +92,7 @@
     padding: 3px;
     text-align: center;
     border:1px solid #D3D3D3;;
+    margin-bottom:11px ;
   }
   .box:not(:first-child){
     margin-left: 20px;
