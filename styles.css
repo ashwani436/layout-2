@@ -13,14 +13,14 @@
   }
   
   #sidea{
-      margin-left: 25px;
+      margin-left: 20px;
   }
   .topnav a{
     float: left;
     display: block;
     color: #e0e0e0;
     text-align: center;
-    padding: 14px 16px;
+    padding: 12px 12px;
     text-decoration: none;
     opacity: 50%;
   }
