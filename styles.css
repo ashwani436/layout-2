@@ -217,7 +217,7 @@
   }
   @media(max-width:576px){
     .outer{
-       margin: 0 20px;
+       margin: 20px 20px;
     }
     }
 
