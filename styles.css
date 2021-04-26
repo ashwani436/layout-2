@@ -52,7 +52,15 @@ border-bottom: 0.5px solid #d2d7da;
 padding-bottom: 50px;
 
 }
-
+.outer_div:after {
+position: absolute;
+content: '';
+border-bottom: 1px solid #d2d7da;
+width: 100%;
+transform: translateX(-50%);
+bottom: -50px;
+left: 50%;
+}
 .artical{
   display:inline-block;
   margin: 50px;
