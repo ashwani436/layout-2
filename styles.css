@@ -189,10 +189,6 @@ p{
   position: relative;
   margin-top: 50px;
 }
-/* .column{
-  float: left;
-  width: 25%;
-} */
 @media screen and (max-width:920px ){
   .column{
     width: 50%;
